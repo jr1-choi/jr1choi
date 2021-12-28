@@ -83,7 +83,7 @@ jungranchoi@Jungui-iMac CKD % wc -l formatted_20170020-UACR_DM-All-nstud_18-SumM
  6824034 formatted_20170020-UACR_DM-All-nstud_18-SumMac_400.tbl.rsid
  
 
-1 pwd : directory 확인  
+1. pwd : directory 확인  
 - jungranchoi@Jungui-iMac ~ % pwd
 2) cd desktop - 화일 있는 폴더 위치
 - 현재 디렉토리 상향 – cd 화일 위치
