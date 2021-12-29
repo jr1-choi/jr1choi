@@ -28,12 +28,12 @@ UACR EA
 UACR AA	
 
 JPN uric acid GWAS	
-hum0167.v1.meta.v1	O 
+hum0167.v1.meta.v1
 
 Taiwan GWAS	
-URIC_ACID. Assoc.linear.gz	O
+URIC_ACID. Assoc.linear.gz
 
-3. terminal 
+3. In lsterminal 
 
 jungranchoi@Jungui-iMac ~ % pwd
 /Users/jungranchoi
