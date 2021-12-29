@@ -33,7 +33,7 @@ hum0167.v1.meta.v1
 Taiwan GWAS	
 URIC_ACID. Assoc.linear.gz
 
-3. In lsterminal 
+3. In terminal 
 
 jungranchoi@Jungui-iMac ~ % pwd
 /Users/jungranchoi
