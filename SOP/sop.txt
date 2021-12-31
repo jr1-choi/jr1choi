@@ -86,6 +86,8 @@ jungranchoi@Jungui-iMac CKD % tail -10 formatted_20170020-UACR_DM-All-nstud_18-S
 jungranchoi@Jungui-iMac CKD % wc -l formatted_20170020-UACR_DM-All-nstud_18-SumMac_400.tbl.rsid
 6824034 formatted_20170020-UACR_DM-All-nstud_18-SumMac_400.tbl.rsid
 
+"Command" 
+
 1) pwd : directory   
 - jungranchoi@Jungui-iMac ~ % pwd
 
