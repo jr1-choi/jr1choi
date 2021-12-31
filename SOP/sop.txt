@@ -1,13 +1,15 @@
-test
+
 SOP
 12/23/2021 ver.1.0
 
-1. CKDgen Meta-Analysis login
+
+STEP 1. CKDgen Meta-Analysis login
 https://ckdgen.imbi.uni-freiburg.de/
 
-2. Urate file downloading
 
-<file list>
+STEP 2. "Urate" file download
+
+"file list"
 
 Schlosser et al. 
 2021	UACA	
@@ -33,7 +35,8 @@ hum0167.v1.meta.v1
 Taiwan GWAS	
 URIC_ACID. Assoc.linear.gz
 
-3. In terminal 
+
+STEP 3. In terminal 
 
 jungranchoi@Jungui-iMac ~ % pwd
 /Users/jungranchoi
@@ -83,7 +86,7 @@ jungranchoi@Jungui-iMac CKD % tail -10 formatted_20170020-UACR_DM-All-nstud_18-S
 jungranchoi@Jungui-iMac CKD % wc -l formatted_20170020-UACR_DM-All-nstud_18-SumMac_400.tbl.rsid
 6824034 formatted_20170020-UACR_DM-All-nstud_18-SumMac_400.tbl.rsid
 
-1 pwd : directory   
+1) pwd : directory   
 - jungranchoi@Jungui-iMac ~ % pwd
 
 2) cd desktop 
